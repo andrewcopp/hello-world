@@ -22,5 +22,3 @@ Build and run using Docker Compose:
 	$ docker-cloud stack up
 
 Hello world!
-
-Making a change to create a build with our new CI/CD pipeline!
